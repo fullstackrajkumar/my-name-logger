@@ -1,0 +1,30 @@
+{
+  "name": "custom-logger",
+  "version": "1.0.0",
+  "description": "A library to make your custom name console",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinkarate/test2.git"
+  },
+  "keywords": [
+    "console log",
+    "my name console",
+    "formated log"
+  ],
+  "author": "Rajkumar <fullstack.rajkumar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nitinkarate/test2/issues"
+  },
+  "homepage": "https://github.com/nitinkarate/test2#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "files": ["lib/**/*"]
+}
