@@ -3,4 +3,4 @@ class Logger{
         console.log(params)
     }  
 }
-export default new Logger()
+export default Logger

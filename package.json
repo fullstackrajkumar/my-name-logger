@@ -1,6 +1,6 @@
 {
   "name": "my-name-logger",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A library to make your custom name console",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
